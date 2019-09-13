@@ -9,3 +9,5 @@ user-specified training and testing proportions, each instance was randomly assi
 testing set using the random library. The ID3 algorithm was then applied to the training set to generate a decision tree, 
 which was displayed using the displayTree helper function. The accuracy of the tree was assessed on the testing set 
 using testTree, another helper function.
+
+For testing purposes, several sample datasets are included.
