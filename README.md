@@ -1,4 +1,4 @@
-# ID3_Induction
+# ID3 Induction
 Implementation of ID3 Decision Tree Induction in Python
 
 In this project, I sought to implement the ID3 machine learning algorithm in Python. The learning goals of this project 
